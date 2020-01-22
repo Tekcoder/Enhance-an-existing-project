@@ -1,6 +1,6 @@
 # Enhance-an-existing-project
 
-This is the updated code base and documentation for Project 8 of the Front End Developer Path at Open Classrooms.
+This is the updated code base and documentation for Project 8.
 
 The project covers
 
