@@ -1,10 +1,13 @@
 # Enhance-an-existing-project
 
-This is the updated code base and documentation for Project 8 of the Front End Developer Path. This project entails the following:
+This is the updated code base and documentation for Project 8.
+
+The project covers
 
 * Bug fixing
-* Writing tests using jasmine 
+* Add tests
 * Analyzing performance
-* Writing technical documentation 
+* Writing technical documentation
 
-Find the documentation in the Wiki tab
+The documentation can be found in the Wiki tab.
+
