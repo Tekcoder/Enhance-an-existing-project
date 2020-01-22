@@ -10,3 +10,4 @@ The project covers
 * Writing technical documentation
 
 The documentation can be found in the Wiki tab.
+
