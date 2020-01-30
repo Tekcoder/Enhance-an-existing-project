@@ -13,7 +13,7 @@ The documentation can be found in the Wiki tab.
 
 # How to use the app
 
-* Go to the site link using the latest versions of modern browsers like Google Chrome or Mozilla Firefox. 
+* Go to the site link `https://tekcoder.github.io/Enhance-an-existing-project/` using the latest versions of modern browsers like Google Chrome or Mozilla Firefox. 
 
 * On arrival, within the app, there's a field that has a placeholder that states "What needs to be done". Type the title of a task into it and then press Enter to include it to the list of tasks.
 
